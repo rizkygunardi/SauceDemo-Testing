@@ -1,0 +1,9 @@
+{
+  "name": "saucedemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.5.1"
+  }
+}
